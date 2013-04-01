@@ -1,0 +1,2 @@
+MyBB-Auto-Post-Updater
+======================
